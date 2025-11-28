@@ -167,7 +167,7 @@ function initParticles() {
         particle.style.position = 'absolute';
         particle.style.width = Math.random() * 4 + 2 + 'px';
         particle.style.height = particle.style.width;
-        particle.style.background = 'rgba(255, 107, 53, ' + (Math.random() * 0.3 + 0.1) + ')';
+        particle.style.background = 'rgba(217, 70, 58, ' + (Math.random() * 0.3 + 0.1) + ')';
         particle.style.borderRadius = '50%';
         particle.style.left = Math.random() * 100 + '%';
         particle.style.top = '100%';
